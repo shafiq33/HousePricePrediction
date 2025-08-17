@@ -5,3 +5,6 @@ def home(request):
 
 def predict(request):
     return render(request, "predict.html")
+
+def result(request):
+    return render(request, "predict.html")
