@@ -15,7 +15,6 @@ This project leverages a linear regression machine learning model to predict hou
 - **Jupyter Notebook**
 - **Django** 
 - **HTML/CSS**
-- **MySQL**  
 - **Microsoft Excel**  
 
 
